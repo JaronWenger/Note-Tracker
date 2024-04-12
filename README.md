@@ -1,8 +1,9 @@
-# React + Vite
+# Note Tracker
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This web app keeps you organized with the feature of adding many notes with titles and content.
 
-Currently, two official plugins are available:
+This is a react app using jsx, featured in the main branch.  Below is a link to this project.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+https://jaronwenger.github.io/Note-Tracker/
+
+<img width="2056" alt="Screenshot 2024-04-12 at 12 45 01 PM" src="https://github.com/JaronWenger/Note-Tracker/assets/147181586/9ec7d3ac-e84f-4fd8-aa65-ea4baf692341">
