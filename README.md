@@ -1,6 +1,6 @@
 # Note Tracker
 
-This web app keeps you organized with the feature of adding many notes with titles and content.
+This website keeps you organized with the feature of adding many notes with titles and content.
 
 This is a react app using jsx, featured in the main branch.  Below is a link to this project.
 
